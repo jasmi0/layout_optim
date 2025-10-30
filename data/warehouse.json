@@ -1,0 +1,297 @@
+{
+  "facility": {
+    "name": "Warehouse",
+    "length": 40.0,
+    "width": 30.0,
+    "height": 6.0
+  },
+  "elements": [
+    {
+      "element_id": "storage_1",
+      "element_type": "storage",
+      "length": 4.0,
+      "width": 2.5,
+      "height": 3.0,
+      "weight": 1000.0,
+      "is_movable": true,
+      "min_clearance": 0.5,
+      "x": 0.0,
+      "y": 0.0,
+      "rotation": 0.0
+    },
+    {
+      "element_id": "storage_2",
+      "element_type": "storage",
+      "length": 4.0,
+      "width": 2.5,
+      "height": 3.0,
+      "weight": 1000.0,
+      "is_movable": true,
+      "min_clearance": 0.5,
+      "x": 0.0,
+      "y": 0.0,
+      "rotation": 0.0
+    },
+    {
+      "element_id": "storage_3",
+      "element_type": "storage",
+      "length": 4.0,
+      "width": 2.5,
+      "height": 3.0,
+      "weight": 1000.0,
+      "is_movable": true,
+      "min_clearance": 0.5,
+      "x": 0.0,
+      "y": 0.0,
+      "rotation": 0.0
+    },
+    {
+      "element_id": "storage_4",
+      "element_type": "storage",
+      "length": 4.0,
+      "width": 2.5,
+      "height": 3.0,
+      "weight": 1000.0,
+      "is_movable": true,
+      "min_clearance": 0.5,
+      "x": 0.0,
+      "y": 0.0,
+      "rotation": 0.0
+    },
+    {
+      "element_id": "storage_5",
+      "element_type": "storage",
+      "length": 4.0,
+      "width": 2.5,
+      "height": 3.0,
+      "weight": 1000.0,
+      "is_movable": true,
+      "min_clearance": 0.5,
+      "x": 0.0,
+      "y": 0.0,
+      "rotation": 0.0
+    },
+    {
+      "element_id": "storage_6",
+      "element_type": "storage",
+      "length": 4.0,
+      "width": 2.5,
+      "height": 3.0,
+      "weight": 1000.0,
+      "is_movable": true,
+      "min_clearance": 0.5,
+      "x": 0.0,
+      "y": 0.0,
+      "rotation": 0.0
+    },
+    {
+      "element_id": "storage_7",
+      "element_type": "storage",
+      "length": 4.0,
+      "width": 2.5,
+      "height": 3.0,
+      "weight": 1000.0,
+      "is_movable": true,
+      "min_clearance": 0.5,
+      "x": 0.0,
+      "y": 0.0,
+      "rotation": 0.0
+    },
+    {
+      "element_id": "storage_8",
+      "element_type": "storage",
+      "length": 4.0,
+      "width": 2.5,
+      "height": 3.0,
+      "weight": 1000.0,
+      "is_movable": true,
+      "min_clearance": 0.5,
+      "x": 0.0,
+      "y": 0.0,
+      "rotation": 0.0
+    },
+    {
+      "element_id": "storage_9",
+      "element_type": "storage",
+      "length": 4.0,
+      "width": 2.5,
+      "height": 3.0,
+      "weight": 1000.0,
+      "is_movable": true,
+      "min_clearance": 0.5,
+      "x": 0.0,
+      "y": 0.0,
+      "rotation": 0.0
+    },
+    {
+      "element_id": "storage_10",
+      "element_type": "storage",
+      "length": 4.0,
+      "width": 2.5,
+      "height": 3.0,
+      "weight": 1000.0,
+      "is_movable": true,
+      "min_clearance": 0.5,
+      "x": 0.0,
+      "y": 0.0,
+      "rotation": 0.0
+    },
+    {
+      "element_id": "storage_11",
+      "element_type": "storage",
+      "length": 4.0,
+      "width": 2.5,
+      "height": 3.0,
+      "weight": 1000.0,
+      "is_movable": true,
+      "min_clearance": 0.5,
+      "x": 0.0,
+      "y": 0.0,
+      "rotation": 0.0
+    },
+    {
+      "element_id": "storage_12",
+      "element_type": "storage",
+      "length": 4.0,
+      "width": 2.5,
+      "height": 3.0,
+      "weight": 1000.0,
+      "is_movable": true,
+      "min_clearance": 0.5,
+      "x": 0.0,
+      "y": 0.0,
+      "rotation": 0.0
+    },
+    {
+      "element_id": "storage_13",
+      "element_type": "storage",
+      "length": 4.0,
+      "width": 2.5,
+      "height": 3.0,
+      "weight": 1000.0,
+      "is_movable": true,
+      "min_clearance": 0.5,
+      "x": 0.0,
+      "y": 0.0,
+      "rotation": 0.0
+    },
+    {
+      "element_id": "storage_14",
+      "element_type": "storage",
+      "length": 4.0,
+      "width": 2.5,
+      "height": 3.0,
+      "weight": 1000.0,
+      "is_movable": true,
+      "min_clearance": 0.5,
+      "x": 0.0,
+      "y": 0.0,
+      "rotation": 0.0
+    },
+    {
+      "element_id": "storage_15",
+      "element_type": "storage",
+      "length": 4.0,
+      "width": 2.5,
+      "height": 3.0,
+      "weight": 1000.0,
+      "is_movable": true,
+      "min_clearance": 0.5,
+      "x": 0.0,
+      "y": 0.0,
+      "rotation": 0.0
+    },
+    {
+      "element_id": "forklift_area_1",
+      "element_type": "equipment",
+      "length": 3.0,
+      "width": 3.0,
+      "height": 1.0,
+      "weight": 0.0,
+      "is_movable": false,
+      "min_clearance": 0.5,
+      "x": 0.0,
+      "y": 0.0,
+      "rotation": 0.0
+    },
+    {
+      "element_id": "forklift_area_2",
+      "element_type": "equipment",
+      "length": 3.0,
+      "width": 3.0,
+      "height": 1.0,
+      "weight": 0.0,
+      "is_movable": false,
+      "min_clearance": 0.5,
+      "x": 0.0,
+      "y": 0.0,
+      "rotation": 0.0
+    },
+    {
+      "element_id": "loading_dock",
+      "element_type": "equipment",
+      "length": 8.0,
+      "width": 4.0,
+      "height": 3.0,
+      "weight": 0.0,
+      "is_movable": false,
+      "min_clearance": 2.0,
+      "x": 0.0,
+      "y": 0.0,
+      "rotation": 0.0
+    },
+    {
+      "element_id": "workstation",
+      "element_type": "workstation",
+      "length": 3.0,
+      "width": 2.0,
+      "height": 1.5,
+      "weight": 0.0,
+      "is_movable": true,
+      "min_clearance": 0.5,
+      "x": 0.0,
+      "y": 0.0,
+      "rotation": 0.0
+    }
+  ],
+  "safety": {
+    "min_aisle_width": 2.5,
+    "emergency_exit_clearance": 3.0,
+    "min_exit_count": 4,
+    "max_travel_distance_to_exit": 30.0
+  },
+  "workflow": {
+    "connections": [
+      {
+        "from": "loading_dock",
+        "to": "storage_1",
+        "frequency": 3.0,
+        "priority": 5
+      },
+      {
+        "from": "loading_dock",
+        "to": "storage_2",
+        "frequency": 3.0,
+        "priority": 5
+      },
+      {
+        "from": "loading_dock",
+        "to": "storage_3",
+        "frequency": 3.0,
+        "priority": 5
+      },
+      {
+        "from": "loading_dock",
+        "to": "storage_4",
+        "frequency": 3.0,
+        "priority": 5
+      },
+      {
+        "from": "loading_dock",
+        "to": "storage_5",
+        "frequency": 3.0,
+        "priority": 5
+      }
+    ]
+  }
+}

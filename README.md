@@ -34,10 +34,10 @@ This project uses **reinforcement learning** to optimize layouts for facilities 
 
 ### Objectives
 
-- ✅ Optimize layouts for facilities, buildings, or industrial plants using RL
-- ✅ Ensure efficient space utilization while adhering to safety regulations
-- ✅ Provide real-time feedback and simulations for layout adjustments
-- ✅ Visualize optimized layouts using interactive 3D modeling tools
+- Optimize layouts for facilities, buildings, or industrial plants using RL
+- Ensure efficient space utilization while adhering to safety regulations
+- Provide real-time feedback and simulations for layout adjustments
+- Visualize optimized layouts using interactive 3D modeling tools
 
 ---
 
@@ -66,7 +66,7 @@ The RL agent optimizes layouts based on:
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 ### Core Stack
 
@@ -295,7 +295,7 @@ layout_optim/
 
 ---
 
-## 🔧 How It Works
+## How It Works
 
 ### System Workflow
 
@@ -403,7 +403,7 @@ Layout Optimization Results:
 
 ---
 
-## � Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
